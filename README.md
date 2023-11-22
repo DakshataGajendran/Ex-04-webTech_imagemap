@@ -159,13 +159,16 @@ ROHINI silver screen is much better in spite of Sound effects and picture qualit
 </html>
 
 ```
-# Output:
+## Output:
+
 ![Alt text](image-1.png)
 ![Alt text](image-2.png)
 ![Alt text](image-3.png)
 ![Alt text](image-4.png)
 ![Alt text](image-5.png)
 ![Alt text](image-6.png)
+
+
 
 # Result:
 The program implementing image maps using HTML is executed successfully.
